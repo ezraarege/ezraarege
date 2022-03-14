@@ -2,8 +2,7 @@
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Data Science at Moringa school
 - 💞️ I’m looking to collaborate on AI projects 
-- Reach me at E
-ezra.arege@student.moringaschool.com
+- Reach me at ezra.arege@student.moringaschool.com
 
 
 
